@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Lakshi Vi
+# 👋 Hey, I’m Viranga Lakshani 
 
 I’m a **Software Engineer from Sri Lanka 🇱🇰** with **8+ years of hands-on experience** in building scalable, user-focused applications.  
 I love writing clean, maintainable code — and I’m always curious about how small improvements can create a big impact in real-world systems.
