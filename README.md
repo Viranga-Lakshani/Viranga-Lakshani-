@@ -38,9 +38,7 @@ I believe in building software that’s **reliable, readable, and respectful** o
 ---
 
 ### 📬 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 💻 [Portfolio](https://your-portfolio-link.com)
-- ✉️ Reach me at **your.email@example.com**
+
 
 ---
 
@@ -68,4 +66,4 @@ When I’m not coding, you’ll probably find me exploring new travel destinatio
 
 ---
 
-⭐️ **Thanks for visiting my profile — feel free to check out my latest projects below!**
+
