@@ -94,4 +94,3 @@ When I’m not coding, I’m often exploring new technologies, learning about ca
 
 ---
 
-⭐ **Thanks for visiting my profile — feel free to explore my repositories below!**
