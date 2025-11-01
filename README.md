@@ -8,7 +8,7 @@ I’m passionate about writing clean, maintainable code and solving real-world p
 ### 💼 What I Do
 - 🧱 **Full-Stack Development** — from backend logic to interactive UIs  
 - ⚙️ **Backend:** PHP, Laravel, Node.js,Java,Springboot,C#,.NET, Express  
-- 🖥️ **Frontend:** React,Angular, React Native, TypeScript,Javascript,Fultter 
+- 🖥️ **Frontend:** HTML5,CSS,React,Angular, React Native, TypeScript,Javascript,Fultter 
 - ☁️ **Tools & DevOps:** Docker, GitHub Actions, AWS (basic)  
 - 🧩 **Databases:** MySQL, PostgreSQL, MongoDB  
 
