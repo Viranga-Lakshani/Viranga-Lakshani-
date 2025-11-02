@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Viranga Lakshani
 
 I’m a **Software Engineer from Sri Lanka 🇱🇰** with over **8 years of professional experience** building scalable, user-focused solutions across web, mobile, and cloud platforms.  
-I’m passionate about crafting software that feels human — simple, efficient, and meaningful.
+I’m passionate about crafting software simple, efficient, and meaningful.
 
 ---
 
